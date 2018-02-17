@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++  -std=gnu++11 -Wno-invalid-offsetof -march=native -ffast-math -msse3 -pthread -fdiagnostics-color=auto -O2 -DNDEBUG  -rdynamic CMakeFiles/23_Water.dir/Water.cpp.o  -o ../../../bin/23_Water ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

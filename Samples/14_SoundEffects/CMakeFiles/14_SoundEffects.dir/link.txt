@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++  -std=gnu++11 -Wno-invalid-offsetof -march=native -ffast-math -msse3 -pthread -fdiagnostics-color=auto -O2 -DNDEBUG  -rdynamic CMakeFiles/14_SoundEffects.dir/SoundEffects.cpp.o  -o ../../../bin/14_SoundEffects ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

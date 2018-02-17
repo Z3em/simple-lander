@@ -1,0 +1,139 @@
+[Sat Feb 17 06:25:43 2018] INFO: Opened log file Urho3D.log
+[Sat Feb 17 06:25:43 2018] INFO: Created 1 worker thread
+[Sat Feb 17 06:25:43 2018] INFO: Added resource path /home/anem/Documents/prog_basic/lander/bin/Data/
+[Sat Feb 17 06:25:43 2018] INFO: Added resource path /home/anem/Documents/prog_basic/lander/bin/CoreData/
+[Sat Feb 17 06:25:44 2018] INFO: Set screen mode 1280x720 windowed monitor 0 resizable
+[Sat Feb 17 06:25:44 2018] INFO: Initialized input
+[Sat Feb 17 06:25:44 2018] INFO: Initialized user interface
+[Sat Feb 17 06:25:44 2018] INFO: Initialized renderer
+[Sat Feb 17 06:25:44 2018] INFO: Set audio mode 44100 Hz stereo interpolated
+[Sat Feb 17 06:25:44 2018] INFO: Initialized engine
+[Sat Feb 17 06:25:44 2018] INFO: Loading scene from lander_scene.xml
+[Sat Feb 17 06:25:46 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+60 frames in 1.0182 seconds = 58.927 fps, fuel mass = 410000
+[Sat Feb 17 06:25:47 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+56 frames in 1.0213 seconds = 54.830 fps, fuel mass = 409183
+[Sat Feb 17 06:25:48 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+48 frames in 1.0074 seconds = 47.644 fps, fuel mass = 408365
+[Sat Feb 17 06:25:49 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+47 frames in 1.0069 seconds = 46.675 fps, fuel mass = 408168
+[Sat Feb 17 06:25:50 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+45 frames in 1.0101 seconds = 44.548 fps, fuel mass = 407040
+[Sat Feb 17 06:25:51 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+44 frames in 1.0220 seconds = 43.049 fps, fuel mass = 406477
+[Sat Feb 17 06:25:52 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+40 frames in 1.0026 seconds = 39.894 fps, fuel mass = 406223
+[Sat Feb 17 06:25:53 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+40 frames in 1.0199 seconds = 39.218 fps, fuel mass = 405885
+[Sat Feb 17 06:25:54 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+43 frames in 1.0204 seconds = 42.137 fps, fuel mass = 404729
+[Sat Feb 17 06:25:56 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+39 frames in 1.0160 seconds = 38.382 fps, fuel mass = 404729
+[Sat Feb 17 06:25:57 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+40 frames in 1.0255 seconds = 39.004 fps, fuel mass = 404532
+[Sat Feb 17 06:25:58 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+43 frames in 1.0128 seconds = 42.453 fps, fuel mass = 404137
+[Sat Feb 17 06:25:59 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+42 frames in 1.0024 seconds = 41.899 fps, fuel mass = 404137
+[Sat Feb 17 06:26:00 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+40 frames in 1.0006 seconds = 39.972 fps, fuel mass = 403686
+[Sat Feb 17 06:26:01 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+41 frames in 1.0232 seconds = 40.069 fps, fuel mass = 403432
+[Sat Feb 17 06:26:02 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+42 frames in 1.0019 seconds = 41.917 fps, fuel mass = 403207
+[Sat Feb 17 06:26:03 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+42 frames in 1.0394 seconds = 40.407 fps, fuel mass = 402728
+[Sat Feb 17 06:26:04 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+43 frames in 1.0219 seconds = 42.077 fps, fuel mass = 402248
+[Sat Feb 17 06:26:05 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+42 frames in 1.0170 seconds = 41.296 fps, fuel mass = 401516
+[Sat Feb 17 06:26:06 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+41 frames in 1.0120 seconds = 40.510 fps, fuel mass = 401487
+[Sat Feb 17 06:26:07 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+39 frames in 1.0001 seconds = 38.994 fps, fuel mass = 401093
+[Sat Feb 17 06:26:08 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+43 frames in 1.0130 seconds = 42.444 fps, fuel mass = 400529
+[Sat Feb 17 06:26:09 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+42 frames in 1.0170 seconds = 41.297 fps, fuel mass = 400219
+[Sat Feb 17 06:26:10 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+53 frames in 1.0052 seconds = 52.723 fps, fuel mass = 399430
+[Sat Feb 17 06:26:11 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+52 frames in 1.0063 seconds = 51.674 fps, fuel mass = 398810
+[Sat Feb 17 06:26:12 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+57 frames in 1.0140 seconds = 56.212 fps, fuel mass = 398500
+[Sat Feb 17 06:26:13 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+63 frames in 1.0152 seconds = 62.052 fps, fuel mass = 397936
+[Sat Feb 17 06:26:14 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+56 frames in 1.0143 seconds = 55.209 fps, fuel mass = 397598
+[Sat Feb 17 06:26:15 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+64 frames in 1.0252 seconds = 62.425 fps, fuel mass = 397598
+[Sat Feb 17 06:26:16 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+64 frames in 1.0125 seconds = 63.204 fps, fuel mass = 397598
+[Sat Feb 17 06:26:17 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+64 frames in 1.0043 seconds = 63.724 fps, fuel mass = 397598
+[Sat Feb 17 06:26:18 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+52 frames in 1.0025 seconds = 51.867 fps, fuel mass = 397598
+[Sat Feb 17 06:26:19 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+60 frames in 1.0226 seconds = 58.673 fps, fuel mass = 396498
+[Sat Feb 17 06:26:20 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+58 frames in 1.0099 seconds = 57.431 fps, fuel mass = 395822
+[Sat Feb 17 06:26:21 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+52 frames in 1.0221 seconds = 50.873 fps, fuel mass = 395145
+[Sat Feb 17 06:26:22 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+56 frames in 1.0166 seconds = 55.083 fps, fuel mass = 394328
+[Sat Feb 17 06:26:23 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+62 frames in 1.0130 seconds = 61.200 fps, fuel mass = 393172
+[Sat Feb 17 06:26:24 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+56 frames in 1.0074 seconds = 55.588 fps, fuel mass = 392186
+[Sat Feb 17 06:26:25 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+54 frames in 1.0133 seconds = 53.289 fps, fuel mass = 391424
+[Sat Feb 17 06:26:26 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+44 frames in 1.0114 seconds = 43.501 fps, fuel mass = 391058
+[Sat Feb 17 06:26:27 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+54 frames in 1.0240 seconds = 52.732 fps, fuel mass = 390663
+[Sat Feb 17 06:26:28 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+61 frames in 1.0262 seconds = 59.438 fps, fuel mass = 390297
+[Sat Feb 17 06:26:29 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+47 frames in 1.0107 seconds = 46.500 fps, fuel mass = 389339
+[Sat Feb 17 06:26:30 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+57 frames in 1.0095 seconds = 56.460 fps, fuel mass = 388775
+[Sat Feb 17 06:26:31 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+61 frames in 1.0118 seconds = 60.283 fps, fuel mass = 388549
+[Sat Feb 17 06:26:32 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+62 frames in 1.0041 seconds = 61.745 fps, fuel mass = 388098
+[Sat Feb 17 06:26:33 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+55 frames in 1.0096 seconds = 54.473 fps, fuel mass = 388098
+[Sat Feb 17 06:26:34 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+56 frames in 1.0204 seconds = 54.876 fps, fuel mass = 388098
+[Sat Feb 17 06:26:35 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+56 frames in 1.0238 seconds = 54.693 fps, fuel mass = 388098
+[Sat Feb 17 06:26:36 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+55 frames in 1.0047 seconds = 54.741 fps, fuel mass = 388098
+[Sat Feb 17 06:26:37 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+54 frames in 1.0115 seconds = 53.381 fps, fuel mass = 386971
+[Sat Feb 17 06:26:38 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+50 frames in 1.0063 seconds = 49.686 fps, fuel mass = 386012
+[Sat Feb 17 06:26:39 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+48 frames in 1.0027 seconds = 47.866 fps, fuel mass = 385787
+[Sat Feb 17 06:26:40 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+46 frames in 1.0151 seconds = 45.315 fps, fuel mass = 385449
+[Sat Feb 17 06:26:41 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+51 frames in 1.0083 seconds = 50.579 fps, fuel mass = 385449
+[Sat Feb 17 06:26:42 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+71 frames in 1.0067 seconds = 70.526 fps, fuel mass = 384293
+[Sat Feb 17 06:26:43 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+64 frames in 1.0295 seconds = 62.164 fps, fuel mass = 383757
+[Sat Feb 17 06:26:44 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+55 frames in 1.0035 seconds = 54.804 fps, fuel mass = 382771
+[Sat Feb 17 06:26:45 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+46 frames in 1.0134 seconds = 45.388 fps, fuel mass = 381869
+[Sat Feb 17 06:26:46 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+46 frames in 1.0103 seconds = 45.529 fps, fuel mass = 380798
+[Sat Feb 17 06:26:47 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+43 frames in 1.0049 seconds = 42.786 fps, fuel mass = 380798
+[Sat Feb 17 06:26:48 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+46 frames in 1.0057 seconds = 45.736 fps, fuel mass = 380798
+[Sat Feb 17 06:26:49 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+47 frames in 1.0015 seconds = 46.929 fps, fuel mass = 380798
+[Sat Feb 17 06:26:50 2018] INFO: Keys: tab = toggle mouse, Esc = quit.
+56 frames in 1.0062 seconds = 55.654 fps, fuel mass = 380178

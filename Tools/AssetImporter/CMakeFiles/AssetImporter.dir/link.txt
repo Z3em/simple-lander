@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++  -std=gnu++11 -Wno-invalid-offsetof -march=native -ffast-math -msse3 -pthread -fdiagnostics-color=auto -O2 -DNDEBUG  -rdynamic CMakeFiles/AssetImporter.dir/AssetImporter.cpp.o  -o ../../../bin/tool/AssetImporter ../../../lib/libUrho3D.a ../../ThirdParty/Assimp/libAssimp.a -ldl -lm -lrt -lGL ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++  -std=gnu++11 -Wno-invalid-offsetof -march=native -ffast-math -msse3 -pthread -fdiagnostics-color=auto -g -DDEBUG -D_DEBUG  -rdynamic CMakeFiles/SampleProject.dir/main.cpp.o  -o bin/SampleProject /mnt/sda3/Urho3D/Urho3D/lib/libUrho3D.a -ldl -lm -lrt -lGL 

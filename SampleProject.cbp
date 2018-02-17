@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SampleProject"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\CMake\;CMake Files\CMake\Modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/anem/Documents/prog_basic/lander"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/anem/Documents/prog_basic/lander"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/anem/Documents/prog_basic/lander"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/anem/Documents/prog_basic/lander"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/anem/Documents/prog_basic/lander"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/anem/Documents/prog_basic/lander"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/anem/Documents/prog_basic/lander"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SampleProject">
+				<Option output="/home/anem/Documents/prog_basic/lander/bin/SampleProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/anem/Documents/prog_basic/lander/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DURHO3D_STATIC_DEFINE"/>
+					<Add option="-DURHO3D_ANGELSCRIPT"/>
+					<Add option="-DURHO3D_IK"/>
+					<Add option="-DURHO3D_LOGGING"/>
+					<Add option="-DURHO3D_LUA"/>
+					<Add option="-DURHO3D_NAVIGATION"/>
+					<Add option="-DURHO3D_NETWORK"/>
+					<Add option="-DURHO3D_PHYSICS"/>
+					<Add option="-DURHO3D_PROFILING"/>
+					<Add option="-DURHO3D_THREADING"/>
+					<Add option="-DURHO3D_URHO2D"/>
+					<Add option="-DURHO3D_WEBP"/>
+					<Add directory="/mnt/sda3/Urho3D/Urho3D/include"/>
+					<Add directory="/mnt/sda3/Urho3D/Urho3D/include/Urho3D/ThirdParty"/>
+					<Add directory="/mnt/sda3/Urho3D/Urho3D/include/Urho3D/ThirdParty/Bullet"/>
+					<Add directory="/mnt/sda3/Urho3D/Urho3D/include/Urho3D/ThirdParty/Lua"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 SampleProject"/>
+					<CompileFile command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SampleProject/fast">
+				<Option output="/home/anem/Documents/prog_basic/lander/bin/SampleProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/anem/Documents/prog_basic/lander/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DURHO3D_STATIC_DEFINE"/>
+					<Add option="-DURHO3D_ANGELSCRIPT"/>
+					<Add option="-DURHO3D_IK"/>
+					<Add option="-DURHO3D_LOGGING"/>
+					<Add option="-DURHO3D_LUA"/>
+					<Add option="-DURHO3D_NAVIGATION"/>
+					<Add option="-DURHO3D_NETWORK"/>
+					<Add option="-DURHO3D_PHYSICS"/>
+					<Add option="-DURHO3D_PROFILING"/>
+					<Add option="-DURHO3D_THREADING"/>
+					<Add option="-DURHO3D_URHO2D"/>
+					<Add option="-DURHO3D_WEBP"/>
+					<Add directory="/mnt/sda3/Urho3D/Urho3D/include"/>
+					<Add directory="/mnt/sda3/Urho3D/Urho3D/include/Urho3D/ThirdParty"/>
+					<Add directory="/mnt/sda3/Urho3D/Urho3D/include/Urho3D/ThirdParty/Bullet"/>
+					<Add directory="/mnt/sda3/Urho3D/Urho3D/include/Urho3D/ThirdParty/Lua"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 SampleProject/fast"/>
+					<CompileFile command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/gmake -j2 -f &quot;/home/anem/Documents/prog_basic/lander/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/anem/Documents/prog_basic/lander/bin/CoreData">
+			<Option target="SampleProject"/>
+		</Unit>
+		<Unit filename="/home/anem/Documents/prog_basic/lander/bin/Data">
+			<Option target="SampleProject"/>
+		</Unit>
+		<Unit filename="/home/anem/Documents/prog_basic/lander/main.cpp">
+			<Option target="SampleProject"/>
+		</Unit>
+		<Unit filename="/home/anem/Documents/prog_basic/lander/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/anem/Documents/prog_basic/lander/CMake/Modules/UrhoCommon.cmake">
+			<Option virtualFolder="CMake Files\CMake\Modules\"/>
+		</Unit>
+		<Unit filename="/home/anem/Documents/prog_basic/lander/CMake/Modules/CheckHost.cmake">
+			<Option virtualFolder="CMake Files\CMake\Modules\"/>
+		</Unit>
+		<Unit filename="/home/anem/Documents/prog_basic/lander/CMake/Modules/CheckCompilerToolchain.cmake">
+			<Option virtualFolder="CMake Files\CMake\Modules\"/>
+		</Unit>
+		<Unit filename="/home/anem/Documents/prog_basic/lander/CMake/Modules/FindUrho3D.cmake">
+			<Option virtualFolder="CMake Files\CMake\Modules\"/>
+		</Unit>
+		<Unit filename="/home/anem/Documents/prog_basic/lander/CMake/Modules/CheckUrhoLibrary.cpp">
+			<Option virtualFolder="CMake Files\CMake\Modules\"/>
+		</Unit>
+		<Unit filename="/home/anem/Documents/prog_basic/lander/CMake/Modules/GenerateExportHeader.cmake">
+			<Option virtualFolder="CMake Files\CMake\Modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

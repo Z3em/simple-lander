@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++  -std=gnu++11 -Wno-invalid-offsetof -march=native -ffast-math -msse3 -pthread -fdiagnostics-color=auto -O2 -DNDEBUG  -rdynamic CMakeFiles/25_Urho2DParticle.dir/Urho2DParticle.cpp.o  -o ../../../bin/25_Urho2DParticle ../../../lib/libUrho3D.a -ldl -lm -lrt -lGL 

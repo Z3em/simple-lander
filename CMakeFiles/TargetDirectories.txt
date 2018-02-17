@@ -1,0 +1,7 @@
+/home/anem/Documents/prog_basic/lander/CMakeFiles/install/strip.dir
+/home/anem/Documents/prog_basic/lander/CMakeFiles/install/local.dir
+/home/anem/Documents/prog_basic/lander/CMakeFiles/install.dir
+/home/anem/Documents/prog_basic/lander/CMakeFiles/list_install_components.dir
+/home/anem/Documents/prog_basic/lander/CMakeFiles/rebuild_cache.dir
+/home/anem/Documents/prog_basic/lander/CMakeFiles/edit_cache.dir
+/home/anem/Documents/prog_basic/lander/CMakeFiles/SampleProject.dir
